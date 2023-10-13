@@ -1,27 +1,28 @@
-# TodoList
+# Todo-list
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.5.
 
-## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## About
 
-## Code scaffolding
+Developed a to-do list app that allows users to add their daily tasks, mark them as completed, or remove them from the list.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Live Demo
 
-## Build
+Take a look on the live user version here: 
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## Technology Used
 
-## Running unit tests
+Angular 12
+HTML
+JavaScript
+Bootstrap
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## Screenshort
+![Todo 1](https://github.com/Ravindra-Sarode/Ang12-ToDo-list/assets/84174506/b518dfac-c248-4258-b4ed-0e7bbd10cdd6)
 
-## Running end-to-end tests
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+![Todo 2](https://github.com/Ravindra-Sarode/Ang12-ToDo-list/assets/84174506/580a712e-5d67-4e31-8ebf-e6cef8ac7169)
 
-## Further help
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+![Todo 3](https://github.com/Ravindra-Sarode/Ang12-ToDo-list/assets/84174506/6b9f5bd6-ad6b-4bd6-b74c-c1dfdde427ca)
+
